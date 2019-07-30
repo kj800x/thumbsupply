@@ -12,6 +12,7 @@
     "video",
     "cache"
   ],
+  "bin": "cli.js",
   "author": "Afrish Khan S <ryanafrish7@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/RyanAfrish7/thumbsupply.git",
