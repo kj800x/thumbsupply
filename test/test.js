@@ -61,7 +61,7 @@ describe("thumbsupply", () => {
                     createdThumbnail = thumbnail;
                     testResolution(thumbnail, {
                         width: 240,
-                        height: 135
+                        height: 136
                     }, done);
                 })
                 .catch(done);
